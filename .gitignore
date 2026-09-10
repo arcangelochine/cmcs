@@ -1,0 +1,20 @@
+# Cursor IDE
+.cursor/
+
+# Lecture transcripts (local source material, not part of the book)
+transcripts/
+template.typ
+
+# Generated book PDF
+src/main.pdf
+
+# PDFs elsewhere — keep figures under src/images/ (including .pdf figures)
+*.pdf
+!src/images/
+!src/images/**
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
