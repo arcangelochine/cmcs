@@ -36,3 +36,4 @@
 
 #include "chapters/01-introduction.typ"
 #include "chapters/02-discrete-dynamical-systems.typ"
+#include "chapters/03-continuous-dynamical-systems.typ"
