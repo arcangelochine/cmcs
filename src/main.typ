@@ -1,7 +1,8 @@
 #import "@preview/bookly:5.1.0": *
+#import "lib.typ": *
 
 #show: bookly.with(
-  title: "Computational Models for Complex Systems",
+  title: "Computational Models for\nComplex Systems",
   author: "",
   lang: "en",
   theme: orly,
@@ -34,3 +35,4 @@
 #part("Abstract Models")
 
 #include "chapters/01-introduction.typ"
+#include "chapters/02-discrete-dynamical-systems.typ"
