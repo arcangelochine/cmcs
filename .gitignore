@@ -13,6 +13,11 @@ src/main.pdf
 !src/images/
 !src/images/**
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
 # OS / editor noise
 .DS_Store
 Thumbs.db

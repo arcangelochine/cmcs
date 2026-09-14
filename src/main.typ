@@ -38,3 +38,4 @@
 #include "chapters/02-discrete-dynamical-systems.typ"
 #include "chapters/03-continuous-dynamical-systems.typ"
 #include "chapters/04-classical-compartmental-models.typ"
+#include "chapters/05-chemical-reactions-and-stochastic-simulation.typ"
