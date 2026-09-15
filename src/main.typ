@@ -39,3 +39,7 @@
 #include "chapters/03-continuous-dynamical-systems.typ"
 #include "chapters/04-classical-compartmental-models.typ"
 #include "chapters/05-chemical-reactions-and-stochastic-simulation.typ"
+
+#part("Behavioral Models and Formal Analysis")
+
+#include "chapters/06-transition-systems.typ"
