@@ -44,3 +44,4 @@
 
 #include "chapters/06-transition-systems.typ"
 #include "chapters/07-markov-chains.typ"
+#include "chapters/08-model-checking-prism.typ"
