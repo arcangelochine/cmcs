@@ -43,3 +43,4 @@
 #part("Behavioral Models and Formal Analysis")
 
 #include "chapters/06-transition-systems.typ"
+#include "chapters/07-markov-chains.typ"
