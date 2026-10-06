@@ -48,3 +48,6 @@
 #include "chapters/07-markov-chains.typ"
 #include "chapters/08-model-checking-prism.typ"
 #include "chapters/09-petri-nets-and-concurrency.typ"
+#part("Agent-Based Modeling and Simulation")
+
+#include "chapters/11-agent-based-modeling-and-cellular-automata.typ"
